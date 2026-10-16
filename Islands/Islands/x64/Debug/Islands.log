@@ -1,0 +1,6 @@
+﻿  Islands.cpp
+D:\Rubika\Cours\CPP Natif\eval_cpp\Islands\Islands.cpp(38,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Rubika\Cours\CPP Natif\eval_cpp\Islands\Islands.cpp(39,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Rubika\Cours\CPP Natif\eval_cpp\Islands\Islands.cpp(63,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+D:\Rubika\Cours\CPP Natif\eval_cpp\Islands\Islands.cpp(64,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Islands.vcxproj -> D:\Rubika\Cours\CPP Natif\eval_cpp\Islands\x64\Debug\Islands.exe

@@ -18,6 +18,27 @@
     <ClCompile Include="GameTheory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tournament.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlwaysCooperate.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlwaysBetray.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TitForTat.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResentfulCooperate.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomStrategy.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pavlov.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IStrategy.h">
@@ -30,6 +51,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Tournament.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Prober.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoftMajority.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
